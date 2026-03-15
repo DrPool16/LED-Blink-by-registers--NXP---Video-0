@@ -1,1 +1,2 @@
-../source/Video_0_Clock_Register_LED.c:37:5:main	16	static
+../source/Video_0_Clock_Register_LED.c:5:6:delay	16	static
+../source/Video_0_Clock_Register_LED.c:10:5:main	8	static
