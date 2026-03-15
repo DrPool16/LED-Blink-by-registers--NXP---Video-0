@@ -6,7 +6,7 @@
  * Generated linker script file for K32L2B31xxxxA
  * Created from memory.ldt by FMCreateLinkMemory
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 12 mar. 2026 00:46:00
+ * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 14 mar. 2026 20:47:58
  */
 
 MEMORY
