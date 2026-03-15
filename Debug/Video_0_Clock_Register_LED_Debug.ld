@@ -6,7 +6,7 @@
  * Generated linker script file for K32L2B31xxxxA
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 14 mar. 2026 23:33:58
+ * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 15 mar. 2026 00:33:00
  */
 
 INCLUDE "Video_0_Clock_Register_LED_Debug_library.ld"
